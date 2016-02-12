@@ -15,6 +15,9 @@
  * These styles were modified from http://zdfs.github.io/toscani/paymentInfo/index.html
  * ======================================
  */
+form {
+  text-align: center; }
+
 .js .credit-card-group {
   -webkit-backface-visibility: hidden;
   -moz-backface-visibility: hidden;
@@ -28,7 +31,9 @@
   overflow: hidden;
   padding: 0 0.5em;
   margin-bottom: 0.2em;
-  position: relative; }
+  position: relative;
+  margin: auto;
+  width: 300px; }
   .js .credit-card-group input {
     background: transparent;
     border: 0;
