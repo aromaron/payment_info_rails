@@ -1,6 +1,7 @@
 # PaymentInfoRails
 
 [![Gem Version](https://badge.fury.io/rb/payment_info_rails.svg)](https://badge.fury.io/rb/payment_info_rails)
+[![Build Status](https://travis-ci.org/aromaron/payment_info_rails.svg?branch=master)](https://travis-ci.org/aromaron/payment_info_rails)
 
 A ruby gem that uses the Rails asset pipeline to include the jQuery [Payment Info Plugin (toscani)]
 (https://github.com/aromaron/toscani.git).
