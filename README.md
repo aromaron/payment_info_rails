@@ -66,3 +66,6 @@ and then
 ## License
 
 This plugin is licensed under the [MIT License](https://github.com/aromaron/payment_info_rails/blob/master/MIT-LICENSE.txt).
+
+###Demo
+You can find a working demo [here](http://aromaron.github.io/payment_info_rails/).
