@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    payment_info_rails (0.0.2)
+    payment_info_rails (0.0.3)
       rails (~> 5.2)
 
 GEM
